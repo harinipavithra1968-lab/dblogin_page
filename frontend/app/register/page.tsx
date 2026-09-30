@@ -54,6 +54,9 @@ export default function Register() {
 
         {/* LEFT IMAGE SECTION */}
         <section className="register-image">
+          <div className="login-image">
+            <img src="/login1.jpg" alt="Login" />
+          </div>
 
           <div className="image-overlay"></div>
 
